@@ -1,20 +1,27 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This was a quick two week project for me to learn data analysis using Python's pandas library. I had a lot of fun seeing how I can take raw data and condense it down into something that is usable.
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+I grabbed 3 data sets from Kaggle.com.
+* [Corona Virus data](https://www.kaggle.com/imdevskp/corona-virus-report)
+* [Country population data](https://www.kaggle.com/tanuprabhu/population-by-country-2020)
+* [Country income data](https://www.kaggle.com/frankmollard/income-by-country)
 
-{Describe your purpose for writing this software to analyze the data.}
+I used these three datasets to answer some questions I had about Covid-19. Using this data I was able to create some graphs to help answer my questions. These files have a lot of data on them, one main portion of the code is to shrink the data down into pieces that I can use to analyze. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Data Analysis Results
 
-Does population effect the amount of Covid-19 cases?
+Does population effect the number of Covid-19 cases?
+Yes, in general the greater the number of people in a country the more Covid-19 cases. I also looked into population density and how that effected case numbers. I was a little surprised to see that density had less impact than sheer population. When comparing population density and cases their is not much of a correlation . 
 
-Does wealth effect the amount of Covid-19 Deaths?
+Does wealth effect the number of Covid-19 Deaths?
+Yes, in countries with a higher GPD less people died. From the results that I pulled wealth has a fairly direct correlation  with the amount of deaths from covid-19. I was not too surprised  to find this from my data.
+
+# Note
+All of this research is done with data provided by others. The information's accuracy is at the mercy of those who created the data. Other factors such as availability to take covid-19 tests, and people's choice to take tests may skew the data. 
 
 # Development Environment
 
