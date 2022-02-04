@@ -10,7 +10,7 @@ I grabbed 3 data sets from Kaggle.com.
 I used these three datasets to answer some questions I had about Covid-19. Using this data I was able to create some graphs to help answer my questions. These files have a lot of data on them, one main portion of the code is to shrink the data down into pieces that I can use to analyze. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CLQNLkcyg8g)
 
 # Data Analysis Results
 
